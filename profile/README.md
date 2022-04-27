@@ -1,6 +1,6 @@
 # Triam Udom Clubs Management Committee (TUCMC)
 
-[![banner](../src/TUCMC-Banner.png)](https://register.clubs.triamudom.ac.th)
+[![banner](https://github.com/triamudomcmc/.github/blob/main/src/TUCMC-Banner.png?raw=true)](https://register.clubs.triamudom.ac.th)
 
 คณะกรรมการงานกิจกรรมพัฒนาผู้เรียน (กช.) คือ องค์กรนักเรียนที่บริหารจัดการดูแลชมรมทุกชมรม (ตามชื่อเดิม กช. = คณะกรรมการกิจกรรมชมรม) กช. จึงเป็นผู้ดูแลระบบลงทะเบียนชมรม และกิจกรรมที่เกี่ยวกับชมรมในโรงเรียนเตรียมอุดมศึกษา รวมถึงดูแลเกี่ยวกับกิจกรรมเพื่อgสังคมและสาธารณประโยชน์ ซึ่งเป็นงานที่ทุกห้องเรียนจะทำเป็นประจำทุกภาคเรียน นอกจากนี้ กช .ยังเป็นผู้จัดนิทรรศการวิชาการ (Triam Udom Open House) ซึ่งเป็นงานที่จัดแสดงผลงานของชมรมทุกปีอีกด้วย
 
