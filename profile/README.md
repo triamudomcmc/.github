@@ -17,5 +17,5 @@ and a lot more!
 
 คณะกรรมการงานกิจกรรมพัฒนาผู้เรียน (กช.) ประจำปีการศึกษา 2565 จะเปิดรับสมัครในเร็ว ๆ นี้ ! รอติดตามรายละเอียดการรับสมัครได้จากช่องทางการติดต่อข้างล่างนี้เลย
 
-- Instgram: [tucmc_official](https://www.instagram.com/tucmc_official/)
+- Instagram: [tucmc_official](https://www.instagram.com/tucmc_official/)
 - Facebook: [TUCMC](https://www.facebook.com/triamudomclubs)
