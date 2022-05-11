@@ -9,7 +9,7 @@
 - [Triam Udom Open House](https://openhouse.triamudom.ac.th/) [[Repo 2021](https://github.com/triamudomcmc/openhouse2021)] [[Repo 2022](https://github.com/triamudomcmc/openhouse2022)]
 - [ระบบลงทะเบียนชมรม](https://register.clubs.triamudom.ac.th/) [[Repo](https://github.com/triamudomcmc/clubreg)]
 - [ลอยกระทงออนไลน์](https://loy-kratong.vercel.app/) [[Repo](https://github.com/triamudomcmc/loy-kratong)]
-- [ระบบจัดการตารางเรียน](https://schedule.tucm.cc/) [Repo](https://github.com/triamudomcmc/schedule-generator)
+- [ระบบจัดการตารางเรียน](https://schedule.tucm.cc/) [[Repo](https://github.com/triamudomcmc/schedule-generator)]
 
 และเว็บไซต์อื่น ๆ อีกมากมาย
 
