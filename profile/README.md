@@ -6,7 +6,7 @@
 
 ## กช. ทำอะไรบ้าง ?
 
-- [Triam Udom Open House]([https://openhouse.triamudom.ac.th/](https://github.com/triamudomcmc/openhouse2022)) [[Live](https://openhouse.triamudom.ac.th/)] [[Repo 2021](https://github.com/triamudomcmc/openhouse2021)] [[Repo 2022](https://github.com/triamudomcmc/openhouse2022)]
+- [Triam Udom Open House](https://github.com/triamudomcmc/openhouse2022) [[Live](https://openhouse.triamudom.ac.th/)] [[Repo 2021](https://github.com/triamudomcmc/openhouse2021)] [[Repo 2022](https://github.com/triamudomcmc/openhouse2022)]
 - [ระบบลงทะเบียนชมรม](https://github.com/triamudomcmc/clubreg) [[Live](https://register.clubs.triamudom.ac.th/)]
 - [ลอยกระทงออนไลน์](https://github.com/triamudomcmc/loy-kratong) [[Live](https://loy-kratong.vercel.app/)]
 - [ระบบจัดการตารางเรียน](https://github.com/triamudomcmc/schedule-generator) [[Live](https://schedule.tucm.cc/)]
